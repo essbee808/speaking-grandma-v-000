@@ -1,4 +1,4 @@
-phrase = "I LOVE YOU GRANDMA!"
+phrase = " "
 
 def speak_to_grandma(phrase)
   if ""
