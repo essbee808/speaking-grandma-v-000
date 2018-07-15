@@ -3,7 +3,7 @@ phrase = " "
 def speak_to_grandma(phrase)
   if "#{phrase}" == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  elsif "#{phrase}" == "#{phrase}".
+  elsif "#{phrase}" == "#{phrase}".downcase
 end
 
 # Whatever you say to grandma, she should respond with
