@@ -1,7 +1,8 @@
 phrase = " "
 
 def speak_to_grandma(phrase)
-  if ""
+  if "#{phrase}" == "I LOVE YOU GRANDMA!"
+    
 end
 
 # Whatever you say to grandma, she should respond with
