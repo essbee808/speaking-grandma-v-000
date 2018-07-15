@@ -1,4 +1,4 @@
-phrase = " ".upcase
+phrase = " "
 
 def speak_to_grandma(phrase)
   
